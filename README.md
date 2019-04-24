@@ -13,7 +13,7 @@ Run your robustness verification algorithm on the pretrained models in this repo
 
 ## Getting started
 
-1.  `git clone https://github.com/Hadisalman/icml_public.git`
+1.  `git clone https://github.com/Hadisalman/robust-verify-benchmark.git`
 
 2.  Install dependencies:
 ```
